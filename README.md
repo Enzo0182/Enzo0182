@@ -21,7 +21,7 @@ Foco em **backend robusto**, integração de **Inteligência Artificial** e solu
 ### 📍 Onde me encontrar
 - **Localização**: Presidente Figueiredo – Amazonas, Brasil
 - LinkedIn: [(https://www.linkedin.com/in/enzo-souza-5a41a3303/)]
-- Email: enzogabrielvianadesouza12355@gmail.com
+- Email: dev.enzo.viana@gmail.com
 
 ---
 
