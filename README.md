@@ -10,7 +10,7 @@ Foco em **backend robusto**, integração de **Inteligência Artificial** e solu
 - **[Generic Inventory System](https://github.com/Enzo0182/generic-inventory-system)** — Sistema de gestão de estoque genérico (inspirado em projeto comercial entregue para empresa do setor de construção).  
   Tecnologias: Python + CustomTkinter + Firebase Firestore.
 
-- **[Luva Tradutora de Libras](https://github.com/Enzo0182/luva_tradutora_libras)** — Protótipo IoT com TensorFlow que traduz sinais da LIBRAS para texto (projeto acadêmico com visão computacional e acessibilidade).
+- **[Luva Tradutora de Libras](https://github.com/Enzo0182/luva_tradutora_libras)** — Protótipo IoT com TensorFlow que traduz sinais da LIBRAS para texto (projeto acadêmico com aprendizado de maquina e acessibilidade).
 
 ### 🛠️ Stack Principal
 - **Backend**: Python (FastAPI), Flask
